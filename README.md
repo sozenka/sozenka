@@ -1,2 +1,3 @@
 🧑‍🎨🎨 : Visual Artist | Digital
+
 🕵️‍♂️📍 : Montréal
