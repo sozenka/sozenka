@@ -1,6 +1,6 @@
 <img src="https://github.com/sozenka/sozenka/blob/main/banner.jpg" alt="Sozenka Banner" width="100%" height="200">
 
-# Welcome to Sozenka's GitHub Profile!
+# SOZENKA !
 
 Hello there! I'm Sozenka, an artist and developer passionate about blending creativity with technology. Here, you'll find a showcase of my diverse projects, collaborations, and a glimpse into my creative world.
 
