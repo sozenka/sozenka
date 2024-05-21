@@ -49,8 +49,6 @@ Feel free to explore my repositories, and don't hesitate to reach out if you hav
 
 ## GitHub Stats
 
-![Sozenka's GitHub stats](https://github-readme-stats.vercel.app/api?username=sozenka&show_icons=true&theme=dark)
-
 <img src="https://myreadme.vercel.app/api/embed/sozenka?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=sozenka&theme=juicyfresh&no-bg=true" />
