@@ -1,8 +1,8 @@
 <img src="https://github.com/sozenka/sozenka/blob/main/banner.jpg" alt="Sozenka Banner" width="100%" height="200">
 
-# SOZENKA !
+# YASSER HORI | SOZENKA !
 
-Hello there! I'm Sozenka, an artist and developer passionate about blending creativity with technology. Here, you'll find a showcase of my diverse projects, collaborations, and a glimpse into my creative world.
+Hello there! I'm Yasser Hori, an artist and developer passionate about blending creativity with technology. Here, you'll find a showcase of my diverse projects, collaborations, and a glimpse into my creative world.
 
 ## About Me
 
