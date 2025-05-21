@@ -1,54 +1,65 @@
-<img src="https://github.com/sozenka/sozenka/blob/main/banner.jpg" alt="Sozenka Banner" width="100%" height="200">
+<img src="https://github.com/sozenka/sozenka/blob/main/banner.jpg" alt="Yasser Hori Banner" width="100%" height="200">
 
-# YASSER HORI | SOZENKA !
+# YASSER HORI | SOZENKA
 
-Hello there! I'm Yasser Hori, an artist and developer passionate about blending creativity with technology. Here, you'll find a showcase of my diverse projects, collaborations, and a glimpse into my creative world.
+Cybersecurity Analyst · Full-Stack Developer · Ethical Hacker · Visual Artist
 
-## About Me
+---
 
-- **🎨 Artist Name:** Sozenka
-- **📍 Based in:** Montreal
-- **🌟 Interests:** Art, Music, Web Development, Data Analysis
-- **🎮 Game Development:** Started in 2017 (at age 11)
-- **🎨 Visual Arts:** I create captivating visual art for musicians and various creative projects.
+## 👨‍💻 About Me
 
-## Projects
+I’m **Yasser Hori**, also known as **Sozenka** — a cybersecurity analyst, ethical hacker, and full-stack developer with 3+ years of real-world experience building, breaking, and securing systems. I merge creativity and strategy to engineer solutions that are secure, autonomous, and meaningful.
 
-### 🎨 Art and Design
-- **[Sozenka.com](https://sozenka.com):** Dive into my portfolio to explore my extensive work in visual arts. From album covers to digital illustrations, my art spans various mediums and styles, showcasing my versatility and creativity. Follow my [Instagram](https://www.instagram.com/sozenka) for regular updates and behind-the-scenes looks at my artistic process.
+- 🔐 **Cybersecurity:** IBM Certified Cybersecurity Analyst, focused on penetration testing, SIEM, threat analysis, and secure system design. Preparing for CompTIA Security+, CySA+, and OSCP.
+- 🧠 **Full-Stack Dev:** Built 20+ full-stack apps using React, Node.js, Supabase, MongoDB, and JWT with access control and logging.
+- 🎨 **Visual Artist:** Completed over 100 design projects including brand identities, cover arts, UI kits, and digital visuals.
+- 📚 **Educator:** Taught AI, robotics, and programming to youth through custom programs and community engagement.
+- 🌍 **Mission:** Combine offensive security, visual communication, and political awareness to build self-reliant tech ecosystems and empower vulnerable communities.
 
-### 🎵 Music and Data
-- **SOZKULTUR:** A comprehensive and meticulously curated database of French rap artists, featuring detailed profiles, discographies, and collaborative projects. SOZKULTUR is a labor of love, reflecting my deep passion for music and data analysis.
-- **Quebec French Music Database:** The largest rap music database in Montreal, encompassing artists from France, Belgium, Switzerland, and Canada. This extensive database leverages advanced algorithms to analyze and categorize music data, powering SOZKULTUR. Developed entirely by me, it is a testament to my dedication to preserving and promoting French rap music.
+---
 
-### 🎮 Game Development
-- **Act of Glory:** My most ambitious project to date, in development since 2018. Act of Glory is a testament to my growth and dedication as a game developer, offering an immersive and expansive gaming experience.
-- **Wings of Glory:** One of my favorite PC games, showcasing my ability to create engaging and enjoyable gameplay experiences.
-- **OR-Bit:** My most recent and acclaimed mobile game, reflecting my commitment to innovation and excellence in game development.
-- **Highway Crasher:** A standout in my mobile game portfolio, known for its thrilling gameplay and high replay value.
-- **And 109 more projects:** My extensive portfolio includes over a hundred diverse projects, each contributing to my evolution as a developer and artist.
+## 🔧 Projects
 
-## Skills
+### 🎨 Art & Visual Design
+- [**Sozenka.com**](https://sozenka.com) – Portfolio of my visual artwork, branding projects, UI kits, and music-related designs.
+- [**Instagram**](https://www.instagram.com/sozenka) – Behind-the-scenes, design drops, and creative experiments.
 
-- **Languages:** JavaScript, Python, HTML, CSS, PHP, SQL, Java
-- **Tools:** VS Code, Git, Node.js, Express, IntelliJ, Virtual Machines
-- **Design:** Adobe Photoshop, Premiere Pro, After Effects, Illustrator, Figma
+### 🔐 Cybersecurity & Dev
+- **CryptoVault** – A decentralized Web3 file-sharing app.
+- **Sozkultur** – A full-stack music data platform documenting French rap through automated music metadata systems.
+- **Secure Labs** – Custom full-stack apps tested with adversarial emulation using tools like Burp Suite, Nmap, Wireshark, and more.
 
-## Portfolio
+### 🎮 Games
+- **Act of Glory** – My largest game project (since 2018), focused on immersive strategy gameplay.
+- **OR-Bit** & **Highway Crasher** – Popular mobile games combining design precision and addicting gameplay.
 
-Check out my portfolio for more of my work: [sozenka.com](https://sozenka.com)
+---
 
-## Connect with Me
+## 💼 Skills
 
-- **🌐 Instagram:** [@sozenka](https://www.instagram.com/sozenka)
-- **💼 LinkedIn:** [Sozenka](https://www.linkedin.com/in/sozenka)
+**Cybersecurity:** Penetration Testing · SIEM · Nmap · Burp Suite · Kali Linux · Python · Bash · MITRE ATT&CK · OWASP Top 10  
+**Development:** React · TypeScript · Node.js · Supabase · MongoDB · Express · JWT Auth  
+**Design:** Photoshop · Illustrator · Figma · After Effects · Premiere Pro  
+**Other:** Git · Linux · CTFs · Red Team Labs · UI/UX · Visual Storytelling
 
-## Work Together ?
+---
 
-Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas. Let's connect and make something awesome!
+## 📂 Portfolio
 
-## GitHub Stats
+Visit: 🌐 [sozenka.com](https://www.sozenka.com)  
+LinkedIn: 💼 [linkedin.com/in/sozenka](https://www.linkedin.com/in/sozenka)
 
-<img src="https://myreadme.vercel.app/api/embed/sozenka?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+---
+
+## 📣 Contact & Collaborations
+
+I'm open to serious collaborations in cybersecurity, full-stack development, and design strategy.  
+If you're building ambitious projects in **security**, **education**, or **digital sovereignty** — let’s connect.
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://myreadme.vercel.app/api/embed/sozenka?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="GitHub Stats" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=sozenka&theme=juicyfresh&no-bg=true" />
