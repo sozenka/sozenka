@@ -1,6 +1,6 @@
 <img src="https://github.com/sozenka/sozenka/blob/main/banner.jpg" alt="Yasser Hori Banner" width="100%" height="200">
 
-# YASSER HORI | SOZENKA
+# YASSER HORI
 
 Cybersecurity Analyst · Full-Stack Developer · Ethical Hacker · Visual Artist
 
